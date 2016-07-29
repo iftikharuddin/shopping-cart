@@ -6,28 +6,28 @@ var products = [
 		imagePath: 'https://upload.wikimedia.org/wikipedia/en/5/5e/Gothiccover.png',
 		title: 'Gothic Game',
 		'description': 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A consequuntur debitis delectus deserunt dolore dolorem eum expedita, inventore nobis omnis perferendis possimus quas repellat soluta, sunt voluptate, voluptates! Assumenda, nulla?',
-		price: 10
+		price: 110
 	}),
 	
 	new Product({
-		imagePath: 'https://upload.wikimedia.org/wikipedia/en/5/5e/Gothiccover.png',
+		imagePath: 'http://www.lorempixel.com/400/200/sports',
 		title: 'Gothic Game',
 		'description': 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A consequuntur debitis delectus deserunt dolore dolorem eum expedita, inventore nobis omnis perferendis possimus quas repellat soluta, sunt voluptate, voluptates! Assumenda, nulla?',
-		price: 10
+		price: 210
 	}),
 	
 	new Product({
-		imagePath: 'https://upload.wikimedia.org/wikipedia/en/5/5e/Gothiccover.png',
-		title: 'Gothic Game',
+		imagePath: 'http://www.lorempixel.com/400/200/cats',
+		title: 'Harry Game',
 		'description': 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A consequuntur debitis delectus deserunt dolore dolorem eum expedita, inventore nobis omnis perferendis possimus quas repellat soluta, sunt voluptate, voluptates! Assumenda, nulla?',
-		price: 10
+		price: 120
 	}),
 	
 	new Product({
-		imagePath: 'https://upload.wikimedia.org/wikipedia/en/5/5e/Gothiccover.png',
-		title: 'Gothic Game',
+		imagePath: 'http://www.lorempixel.com/400/200/',
+		title: 'Obama Game',
 		'description': 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A consequuntur debitis delectus deserunt dolore dolorem eum expedita, inventore nobis omnis perferendis possimus quas repellat soluta, sunt voluptate, voluptates! Assumenda, nulla?',
-		price: 10
+		price: 1110
 	}),
 ]; 
 
